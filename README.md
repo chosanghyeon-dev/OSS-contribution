@@ -1,4 +1,4 @@
-# Open Source 코드 기여 모음
+# Open Source Software 코드 기여 모음
 
 ## [next](https://github.com/vercel/next.js)
 
